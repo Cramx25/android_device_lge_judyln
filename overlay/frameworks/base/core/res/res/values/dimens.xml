@@ -25,5 +25,8 @@
     <dimen name="rounded_corner_radius">30dp</dimen>
     <dimen name="rounded_corner_radius_buttom">30dp</dimen>
     <dimen name="rounded_corner_radius_top">30dp</dimen>
+    
+    <!-- Paddings of the status bar -->
+    <dimen name="status_bar_padding_top">5.0dip</dimen>
 
 </resources>
