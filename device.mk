@@ -44,6 +44,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     HBMTrigger
 
+# Include GrapheneOS Camera
+PRODUCT_PACKAGES += \
+    GrapheneOSCamera
+
 # Init
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/rootdir/etc/fstab.judyln:$(TARGET_COPY_OUT_VENDOR)/etc/fstab.judyln
